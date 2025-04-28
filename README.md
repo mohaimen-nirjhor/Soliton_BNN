@@ -55,7 +55,7 @@ After training, the program automatically shows:
 
 | File | Description |
 |:-----|:------------|
-| `your_script_name.py` | Main script for training and visualizing the soliton solution |
+| `Soliton_BNN.py` | Main script for training and visualizing the soliton solution |
 
 ---
 
